@@ -110,6 +110,7 @@ class _ProfileViewState extends State<ProfileView> {
                   ),
                 ),
 
+
                 Container(
                   padding: EdgeInsets.symmetric(horizontal: 15, vertical: 15),
                   decoration: BoxDecoration(
